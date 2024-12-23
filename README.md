@@ -1,5 +1,5 @@
 <h1> Hi, I'm Sayak Samanta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ <img width="100px" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZnMnhmczBqMWtydG83eHRkc2M3cmUybW9wc3dqNjA3bXk3NXBtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
 <p><em>Software Enginner at <a href="https://iem.edu.in/">University of Engineering and Management</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -51,7 +51,6 @@ We welcome contributions from anyone who wants to help improve my repo. Whether 
  Exploring the frontiers of artificial intelligence with machine learning projects and Large Language Model (LLM) development.
  
 - 🤖 [New LLM Models](https://www.vectara.com/blog/top-large-language-models-llms-gpt-4-llama-gato-bloom-and-when-to-choose-one-over-the-other)
- <img width="100px" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZnMnhmczBqMWtydG83eHRkc2M3cmUybW9wc3dqNjA3bXk3NXBtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
 - 🤖[New discoveries](https://www.sciencedaily.com/releases/2024/12/241219190259.htm)  
 - 🤖[Handling Billions of Records in Minutes with SQL.. ⏱️](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
 - 🤖[An Agentic Approach to Reducing LLM Hallucinations](https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2)
