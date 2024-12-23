@@ -6,7 +6,7 @@
 
 # Hi there, I'm Sayak Samanta 
 
-# 🚀 Welcome to [GitHub Account] 🚀
+# 🚀 Welcome to  My GitHub Account 🚀
 
 Welcome to my repository, where I share website design projects and learning resources for beginners. This collection includes HTML, CSS, JS, and Python-based projects, aiming to provide a comprehensive learning experience for those new to web development. My eLearning repository is a work-in-progress, with regular updates and new additions to help beginners get started with coding and web design
 ## 👥 About the Project 👥
@@ -40,10 +40,6 @@ We welcome contributions from anyone who wants to help improve my repo. Whether 
 <br />
 
 ---
-## 🚫 Issues and Bugs 🚫
--------------------------
-
-If you encounter any issues or bugs while using [Your Repo Name], please report them in the [Issues](https://github.com/say217/sayaksamanta) section.
 
 ## 📚 Documentation 📚
 -----------------------
@@ -67,10 +63,16 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Learn more about ML
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😻 "Code is like humor. When you have to explain    it's bad." - Cory House
-
+-🚀 Exploring AI and ML, one algorithm at a time!
+-🌟 Passionate about combining creativity with tech.
+-🎯 2025 Goals: Build a personal ML project that makes an impact.
+-✨ Fun fact: Can spend hours debugging code but still feel victorious!
+-💡 Motto: "In programming, it's not about having no bugs, it's about learning how to squash them."
+-🎨 Hobbies: Sketching, playing the guitar, and beating drums!
+-🤝 Open to collaborating on Python, ML, and creative tech projects.
+-🌍 Life Mission: To turn ideas into reality with the power of code!
 
 ## 📞Connect with me:
 
