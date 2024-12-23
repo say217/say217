@@ -1,5 +1,5 @@
 
-<img width='800px' src=https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif>
+<img width='800px' height='500px' src=https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif>
 
 
 
