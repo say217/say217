@@ -1,5 +1,5 @@
 <h1> Hi, I'm Sayak Samanta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<p><em>Software Enginner at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>
 
 [![Twitter: Sayak Samanta](https://img.shields.io/twitter/follow/Sayak-Samanta?style=social)](https://x.com/AlienX1751669)
