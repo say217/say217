@@ -1,5 +1,5 @@
 
-<img width='600px' src=[://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)>
+<img width='600px' src=https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif>
 
 
 
