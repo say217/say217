@@ -64,15 +64,15 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 "Code is like humor. When you have to explain    it's bad." - Cory House
--🚀 Exploring AI and ML, one algorithm at a time!
--🌟 Passionate about combining creativity with tech.
--🎯 2025 Goals: Build a personal ML project that makes an impact.
--✨ Fun fact: Can spend hours debugging code but still feel victorious!
--💡 Motto: "In programming, it's not about having no bugs, it's about learning how to squash them."
--🎨 Hobbies: Sketching, playing the guitar, and beating drums!
--🤝 Open to collaborating on Python, ML, and creative tech projects.
--🌍 Life Mission: To turn ideas into reality with the power of code!
+- 😻 "Code is like humor. When you have to explain it's bad." - Cory House
+- 🚀 Exploring AI and ML, one algorithm at a time!
+- 🌟 Passionate about combining creativity with tech.
+- 🎯 2025 Goals: Build a personal ML project that makes an impact.
+- ✨ Fun fact: Can spend hours debugging code but still feel victorious!
+- 💡 Motto: "In programming, it's not about having no bugs, it's about learning how to squash them."
+- 🎨 Hobbies: Sketching, playing the guitar, and beating drums!
+- 🤝 Open to collaborating on Python, ML, and creative tech projects.
+- 🌍 Life Mission: To turn ideas into reality with the power of code!
 
 ## 📞Connect with me:
 
