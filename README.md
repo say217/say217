@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Sayak Samanta](https://img.shields.io/twitter/follow/Sayak-Samanta?style=social)](https://x.com/AlienX1751669)
-[![Linkedin: Sayak Samanta](https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sayak-Samanta/)](https://www.linkedin.com/in/sayak-samanta-64391a316/)
+[![LinkedIn: Sayak Samanta](https://img.shields.io/badge/-Sayak%20Samanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-samanta-64391a316/)](https://www.linkedin.com/in/sayak-samanta-64391a316/)
 [![GitHub Sayak](https://img.shields.io/github/followers/say217?label=follow&style=social)](https://github.com/say217)
 
  
@@ -12,7 +12,7 @@
 
 # 🚀 Welcome to  My GitHub Account 🚀
 
-Welcome to my repository, where I share website design projects and learning resources for beginners. This collection includes HTML, CSS, JS, and Python-based projects, aiming to provide a comprehensive learning experience for those new to web development. My eLearning repository is a work-in-progress, with regular updates and new additions to help beginners get started with coding and web design
+Welcome to my repository, where I share website design projects and learning resources for beginners. This collection includes HTML, CSS, JS, and Python-based projects, aiming to provide a comprehensive learning experience for those new to web development. 
 ## 👥 About the Project 👥
 ---------------------------
 I'm passionate about exploring the frontiers of artificial intelligence 🤖, with a focus on machine learning projects and Large Language Model (LLM) development 📚. My work also involves designing and training AI agents 🤝 to tackle complex problems and improve decision-making processes 💡. From natural language processing to predictive modeling, I'm committed to pushing the boundaries of what's possible with AI and ML 🔥💻"
@@ -22,7 +22,7 @@ I'm passionate about exploring the frontiers of artificial intelligence 🤖, wi
 ----------------------
 
 We welcome contributions from anyone who wants to help improve my repo. Whether you're a seasoned developer or just starting out, your contributions are valued.
-
+<img width="60px" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp?cid=790b7611hpc64f2a5ayfrnre0vxiyt93k7ywbn4zsyjqg0i5&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -65,16 +65,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## I'm a Student, ML Enthusiast, Developer, and Self Learner!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 "Code is like humor. When you have to explain it's bad." - Cory House
-- 🚀 Exploring AI and ML, one algorithm at a time!
+
 - 🌟 Passionate about combining creativity with tech.
 - 🎯 2025 Goals: Build a personal ML project that makes an impact.
 - ✨ Fun fact: Can spend hours debugging code but still feel victorious!
 - 💡 Motto: "In programming, it's not about having no bugs, it's about learning how to squash them."
-- 🎨 Hobbies: Sketching, playing the guitar, and beating drums!
 - 🤝 Open to collaborating on Python, ML, and creative tech projects.
 - 🌍 Life Mission: To turn ideas into reality with the power of code!
 
@@ -94,10 +89,33 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - [Handling Billions of Records in Minutes with SQL.. ⏱️](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
 - [An Agentic Approach to Reducing LLM Hallucinations](https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2)
 - [Creating a WhatsApp AI Agent with GPT-4o](https://towardsdatascience.com/creating-a-whatsapp-ai-agent-with-gpt-4o-f0bc197d2ac0)
-- [What Every Aspiring Machine Learning Engineer Must Know to Succeed](https://towardsdatascience.com/what-every-aspiring-machine-learning-engineer-must-know-to-succeed-b49722073048)
-- [Evaluation-Driven Development for agentic applications using PydanticAI](https://towardsdatascience.com/evaluation-driven-development-for-agentic-applications-using-pydanticai-d9293ac81d91)
-<!-- BLOG-POST-LIST:END -->
 
+📊 **This week I spent my time on** 
+
+``` text
+⌚︎ Timezone: Asia/Calcutta
+
+💬 Languages: 
+JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+
+🔥 Editors: 
+WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+
+💻 Operating Systems: 
+Windows                  17 hrs 5 mins       █████████████████████████   100.0%
+
+```
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 
 ---
