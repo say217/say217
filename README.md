@@ -49,11 +49,11 @@ We welcome contributions from anyone who wants to help improve my repo. Whether 
 -----------------------
  Exploring the frontiers of artificial intelligence with machine learning projects and Large Language Model (LLM) development.
  
-  🤖
- [New LLM Models](https://www.vectara.com/blog/top-large-language-models-llms-gpt-4-llama-gato-bloom-and-when-to-choose-one-over-the-other)
-
-
-🤖[New discoveries](https://www.sciencedaily.com/releases/2024/12/241219190259.htm)
+- 🤖 [New LLM Models](https://www.vectara.com/blog/top-large-language-models-llms-gpt-4-llama-gato-bloom-and-when-to-choose-one-over-the-other)
+- 🤖[New discoveries](https://www.sciencedaily.com/releases/2024/12/241219190259.htm)
+- 🤖[Handling Billions of Records in Minutes with SQL.. ⏱️](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
+- 🤖[An Agentic Approach to Reducing LLM Hallucinations](https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2)
+- 🤖[Creating a WhatsApp AI Agent with GPT-4o](https://towardsdatascience.com/creating-a-whatsapp-ai-agent-with-gpt-4o-f0bc197d2ac0)
 
 
 
@@ -83,12 +83,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 
-### 📕 Latest Blog About Ml and AI Related
 
-<!-- BLOG-POST-LIST:START -->
-- [Handling Billions of Records in Minutes with SQL.. ⏱️](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
-- [An Agentic Approach to Reducing LLM Hallucinations](https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2)
-- [Creating a WhatsApp AI Agent with GPT-4o](https://towardsdatascience.com/creating-a-whatsapp-ai-agent-with-gpt-4o-f0bc197d2ac0)
 
 📊 **This week I spent my time on** 
 
