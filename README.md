@@ -50,8 +50,8 @@ We welcome contributions from anyone who wants to help improve my repo. Whether 
 -----------------------
  Exploring the frontiers of artificial intelligence with machine learning projects and Large Language Model (LLM) development.
  
-- 🤖 [New LLM Models](https://www.vectara.com/blog/top-large-language-models-llms-gpt-4-llama-gato-bloom-and-when-to-choose-one-over-the-other)
-- 🤖[New discoveries](https://www.sciencedaily.com/releases/2024/12/241219190259.htm)
+- 🤖 [New LLM Models](https://www.vectara.com/blog/top-large-language-models-llms-gpt-4-llama-gato-bloom-and-when-to-choose-one-over-the-other) <img width="100px" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZnMnhmczBqMWtydG83eHRkc2M3cmUybW9wc3dqNjA3bXk3NXBtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
+- 🤖[New discoveries](https://www.sciencedaily.com/releases/2024/12/241219190259.htm)  
 - 🤖[Handling Billions of Records in Minutes with SQL.. ⏱️](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
 - 🤖[An Agentic Approach to Reducing LLM Hallucinations](https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2)
 - 🤖[Creating a WhatsApp AI Agent with GPT-4o](https://towardsdatascience.com/creating-a-whatsapp-ai-agent-with-gpt-4o-f0bc197d2ac0)
@@ -68,7 +68,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 - 🌟 Passionate about combining creativity with tech.
-- 🎯 2025 Goals: Build a personal ML project that makes an impact. <img width="100px" align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp?cid=790b7611hpc64f2a5ayfrnre0vxiyt93k7ywbn4zsyjqg0i5&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+- 🎯 2025 Goals: Build a personal ML project that makes an impact. <img width="150px" align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp?cid=790b7611hpc64f2a5ayfrnre0vxiyt93k7ywbn4zsyjqg0i5&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 - ✨ Fun fact: Can spend hours debugging code but still feel victorious!
 - 💡 Motto: "In programming, it's not about having no bugs, it's about learning how to squash them."
 - 🤝 Open to collaborating on Python, ML, and creative tech projects.
