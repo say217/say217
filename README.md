@@ -22,7 +22,8 @@ I'm passionate about exploring the frontiers of artificial intelligence 🤖, wi
 ----------------------
 
 We welcome contributions from anyone who wants to help improve my repo. Whether you're a seasoned developer or just starting out, your contributions are valued.
-<img width="60px" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp?cid=790b7611hpc64f2a5ayfrnre0vxiyt93k7ywbn4zsyjqg0i5&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -67,7 +68,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 - 🌟 Passionate about combining creativity with tech.
-- 🎯 2025 Goals: Build a personal ML project that makes an impact.
+- 🎯 2025 Goals: Build a personal ML project that makes an impact. <img width="100px" align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.webp?cid=790b7611hpc64f2a5ayfrnre0vxiyt93k7ywbn4zsyjqg0i5&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 - ✨ Fun fact: Can spend hours debugging code but still feel victorious!
 - 💡 Motto: "In programming, it's not about having no bugs, it's about learning how to squash them."
 - 🤝 Open to collaborating on Python, ML, and creative tech projects.
