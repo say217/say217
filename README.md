@@ -1,4 +1,4 @@
- <h1><img width="50" src="https://wchahockey.ca/wp-content/uploads/2021/02/WHA-Icon-300x300.png">I am Sayak Samanta !!</h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+ # <img width="40"  src="https://cdn-icons-png.flaticon.com/512/8220/8220415.png"> I am Sayak Samanta !! <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>
 
@@ -10,13 +10,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   
 
-# 🚀 Welcome to  My GitHub Account 🚀
+# 🚀 Welcome to  My GitHub Account 
 
 Welcome to my repository, where I share website design projects and learning resources for beginners. This collection includes HTML, CSS, JS, and Python-based projects, aiming to provide a comprehensive learning experience for those new to web development. 
-## 👥 About the Project 👥
+## 👥 About the Project 
 ---------------------------
 I'm passionate about exploring the frontiers of artificial intelligence 🤖, with a focus on machine learning projects and Large Language Model (LLM) development 📚. My work also involves designing and training AI agents 🤝 to tackle complex problems and improve decision-making processes 💡. From natural language processing to predictive modeling, I'm committed to pushing the boundaries of what's possible with AI and ML 🔥💻"
-<p align="center">
+<p align="left">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
@@ -30,6 +30,27 @@ I'm passionate about exploring the frontiers of artificial intelligence 🤖, wi
 ----------------------
 
 We welcome contributions from anyone who wants to help improve my repo. Whether you're a seasoned developer or just starting out, your contributions are valued.
+📊 **This week I spent my time on** 
+
+``` text
+⌚︎ Timezone: Asia/Calcutta
+
+💬 Languages: 
+JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+
+🔥 Editors: 
+WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+
+💻 Operating Systems: 
+Windows                  17 hrs 5 mins       █████████████████████████   100.0%
+
+```
 
 
 ### Languages and Tools:
@@ -74,27 +95,6 @@ We welcome contributions from anyone who wants to help improve my repo. Whether 
 - 🤝 Open to collaborating on Python, ML, and creative tech projects.
 - 🌍 Life Mission: To turn ideas into reality with the power of code!
 
-📊 **This week I spent my time on** 
-
-``` text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-
-🔥 Editors: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
-```
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
