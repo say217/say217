@@ -1,4 +1,4 @@
-<h1> Hi, I'm Sayak Samanta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<h1> Hi, I'm <img width="50" height="40"src="https://www.canva.com/design/DAGaNGzUtLk/T6ySoqP22C0UBl8618qnUg/view?utm_content=DAGaNGzUtLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>
 
