@@ -6,7 +6,7 @@
 [![LinkedIn: Sayak Samanta](https://img.shields.io/badge/-Sayak%20Samanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-samanta-64391a316/)](https://www.linkedin.com/in/sayak-samanta-64391a316/)
 [![GitHub Sayak](https://img.shields.io/github/followers/say217?label=follow&style=social)](https://github.com/say217)
 [![](https://img.shields.io/badge/Telegram-Sayak-Samanta-blue)](https://t.me/Sayak-Samanta)
- [![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+ [![](https://img.shields.io/badge/Gmail-sayaksmnt@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   
 
