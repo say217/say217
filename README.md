@@ -1,4 +1,4 @@
-<img width="50" border-radius="50" src="https://cdn5.vectorstock.com/i/1000x1000/88/54/abstract-triangle-logo-design-vector-19038854.jpg"> <h1>I am Sayak Samanta !!</h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+ <h1><img width="50" src="https://wchahockey.ca/wp-content/uploads/2021/02/WHA-Icon-300x300.png">I am Sayak Samanta !!</h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>
 
