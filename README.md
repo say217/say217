@@ -1,12 +1,13 @@
-<h1> Hi, I'm <img width="50" height="40"src="https://www.canva.com/design/DAGaNGzUtLk/T6ySoqP22C0UBl8618qnUg/view?utm_content=DAGaNGzUtLk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+ <h1 style="color:blue:">I am Sayak Samanta<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>
 
 [![Twitter: Sayak Samanta](https://img.shields.io/twitter/follow/Sayak-Samanta?style=social)](https://x.com/AlienX1751669)
 [![LinkedIn: Sayak Samanta](https://img.shields.io/badge/-Sayak%20Samanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-samanta-64391a316/)](https://www.linkedin.com/in/sayak-samanta-64391a316/)
 [![GitHub Sayak](https://img.shields.io/github/followers/say217?label=follow&style=social)](https://github.com/say217)
+[![](https://img.shields.io/badge/Telegram-Sayak-Samanta-blue)](https://t.me/Sayak-Samanta)
+ [![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
- 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   
 
 # 🚀 Welcome to  My GitHub Account 🚀
@@ -15,7 +16,15 @@ Welcome to my repository, where I share website design projects and learning res
 ## 👥 About the Project 👥
 ---------------------------
 I'm passionate about exploring the frontiers of artificial intelligence 🤖, with a focus on machine learning projects and Large Language Model (LLM) development 📚. My work also involves designing and training AI agents 🤝 to tackle complex problems and improve decision-making processes 💡. From natural language processing to predictive modeling, I'm committed to pushing the boundaries of what's possible with AI and ML 🔥💻"
-
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/scala-red.svg?style=for-the-badge&logo=scala&logoColor=red&labelColor=ffffff" alt="scala"></a>
+</p>
 
 ## 👥 Contributing 👥
 ----------------------
