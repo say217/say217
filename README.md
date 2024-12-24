@@ -55,14 +55,6 @@ We welcome contributions from anyone who wants to help improve my repo. Whether 
 - 🤖[An Agentic Approach to Reducing LLM Hallucinations](https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2)
 - 🤖[Creating a WhatsApp AI Agent with GPT-4o](https://towardsdatascience.com/creating-a-whatsapp-ai-agent-with-gpt-4o-f0bc197d2ac0)
 
-
-
-
-## 📈 License 📈
------------------
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions
-
 ## I'm a Student, ML Enthusiast, Developer, and Self Learner!!
 
 
@@ -72,18 +64,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - 💡 Motto: "In programming, it's not about having no bugs, it's about learning how to squash them."
 - 🤝 Open to collaborating on Python, ML, and creative tech projects.
 - 🌍 Life Mission: To turn ideas into reality with the power of code!
-
-## 📞Connect with me:
-
-- <img width='15px' src=https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png> Email: [sayaksmnt@gmail.com](sayaksmnt@gmail.com)
-- 📱 Phone: +91 xxxxxxxxx
-- 🌐 Website: [www.sayaksamanta.com](https://www.sayaksamanta.com)
-- <img width='15px' src=https://biyouiryoukenkyuujyo.com/wp-content/uploads/2023/11/image-95.webp>Twitter: [sayaksamanta](https://x.com/AlienX1751669)
-- <img width='15px' src=https://purepng.com/public/uploads/large/linkedin-icon-zls.png> LinkedIn: [Sayak Samanta](https://www.linkedin.com/in/sayak-samanta-64391a316/)
-
-
-
-
 
 📊 **This week I spent my time on** 
 
