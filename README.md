@@ -1,4 +1,4 @@
- # <img width="40"  src="https://cdn-icons-png.flaticon.com/512/8220/8220415.png"> I am Sayak Samanta !! <img width="300px" align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+ # <img width="40"  src="https://cdn-icons-png.flaticon.com/512/8220/8220415.png"> I am Sayak Samanta !!
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Medium Research papper <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>
 
