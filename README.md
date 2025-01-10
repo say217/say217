@@ -1,4 +1,4 @@
- # <img width="40"  src="https://cdn-icons-png.flaticon.com/512/8220/8220415.png"> Hi there 👋 I'm [Sayak Samanta](https://img.shields.io/badge/-Sayak%20Samanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-samanta-64391a316/)!!
+ # <img width="40"  src="https://cdn-icons-png.flaticon.com/512/8220/8220415.png"> Hi there 👋 I'm [Sayak Samanta](https://img.shields.io/badge/-Sayak%20Samanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-samanta-64391a316/)!! 
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Passionate ML Engineering student <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>
 
