@@ -33,27 +33,11 @@ Currently, I’m expanding my expertise in `Generative Adversarial Networks (GAN
 ## Contributing 
 ----------------------
 
-We welcome contributions from anyone who wants to help improve my repo. Whether you're a seasoned developer or just starting out, your contributions are valued.
+I welcome contributions from anyone who wants to help improve my repo. Whether you're a seasoned developer or just starting out, your contributions are valued.
 **This week I spent my time on** 
 
-``` text
-⌚︎ Timezone: Asia/Calcutta
+<img width="1250" height="622" alt="svg-to-png" src="https://github.com/user-attachments/assets/290e31a6-9cae-4808-afc1-2a6121d892f3" />
 
-Languages: 
-Python                   6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Machine Learning         2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-C                        2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Data Base                2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Docker                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-
-Editors: 
-Jupyter Notebook         9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-VS Code                  5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   29.49%
-
-Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
-```
 
 
 ### Languages and Tools:
