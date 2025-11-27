@@ -1,7 +1,6 @@
 
- ![github-header-image (1)](https://github.com/user-attachments/assets/b45f7cbf-1cae-4b02-853c-f1104b64043e)
+<img width="2048" height="512" alt="Gemini_Generated_Image_e1k6ose1k6ose1k6" src="https://github.com/user-attachments/assets/adf4ceb5-c23d-4759-a343-d6d0cba4595d" />
 
- 
 
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Passionate ML Engineering student <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>  
@@ -96,16 +95,6 @@ Windows                  17 hrs 5 mins       ███████████�
 
 ---
 
-## 📚 Documentation 📚
------------------------
- Exploring the frontiers of artificial intelligence with machine learning projects and Large Language Model (LLM) development.
- 
-- 🤖 [New LLM Models](https://www.vectara.com/blog/top-large-language-models-llms-gpt-4-llama-gato-bloom-and-when-to-choose-one-over-the-other)
-- 🤖[New discoveries](https://www.sciencedaily.com/releases/2024/12/241219190259.htm)  
-- 🤖[Handling Billions of Records in Minutes with SQL.. ⏱️](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
-- 🤖[An Agentic Approach to Reducing LLM Hallucinations](https://towardsdatascience.com/an-agentic-approach-to-reducing-llm-hallucinations-f7ffd6eedcf2)
-- 🤖[Creating a WhatsApp AI Agent with GPT-4o](https://towardsdatascience.com/creating-a-whatsapp-ai-agent-with-gpt-4o-f0bc197d2ac0)
-
 ## I'm a Student, ML Enthusiast, Developer, and Self Learner!!
 
 
@@ -118,6 +107,135 @@ Windows                  17 hrs 5 mins       ███████████�
 
 
 
+# Machine Learning FLOW CHART 
+Here is a clean, readable Mermaid flowchart in Markdown, showing:
+Machine Learning Algorithms
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+Each category includes the major algorithms under it.
+
+
+```mermaid
+%%{ init: { "flowchart": { "htmlLabels": false, "nodeSpacing": 40, "rankSpacing": 120 } } }%%
+flowchart LR
+
+    A[Machine Learning Algorithms]
+
+    %% Main branches
+    A --> B[Supervised Learning]
+    A --> C[Unsupervised Learning]
+    A --> D[Reinforcement Learning]
+
+    %% Supervised Learning Algorithms
+    B --> B1[Linear Regression]
+    B --> B2[Logistic Regression]
+    B --> B3[Decision Trees]
+    B --> B4[Random Forest]
+    B --> B5[Support Vector Machines - SVM]
+    B --> B6[K-Nearest Neighbors - KNN]
+    B --> B7[Naive Bayes]
+    B --> B8[Gradient Boosting and XGBoost]
+    B --> B9[Neural Networks]
+
+    %% Unsupervised Learning Algorithms
+    C --> C1[K-Means Clustering]
+    C --> C2[Hierarchical Clustering]
+    C --> C3[DBSCAN]
+    C --> C4[Principal Component Analysis - PCA]
+    C --> C5[Autoencoders]
+    C --> C6[Gaussian Mixture Models - GMM]
+    C --> C7[Self Organizing Maps]
+
+    %% Reinforcement Learning Algorithms
+    D --> D1[Q-Learning]
+    D --> D2[Deep Q Networks - DQN]
+    D --> D3[SARSA]
+    D --> D4[Policy Gradient Methods]
+    D --> D5[Actor Critic Methods]
+    D --> D6[Proximal Policy Optimization - PPO]
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Deep Learning Flow Charts 
+horizontal Mermaid flowchart (LR) for Deep Learning with major categories and variants, similar to your ML chart. I’ll include FNN, RNN, CNN, GAN, Transformers, and other important variants like PointNet, LSTM, GRU, ResNet, Autoencoders etc.
+
+```mermaid
+%%{ init: { "flowchart": { "htmlLabels": false, "nodeSpacing": 40, "rankSpacing": 120 } } }%%
+flowchart LR
+
+    A[Deep Learning Algorithms]
+
+    %% Main branches
+    A --> B[FNN - Feedforward Neural Networks]
+    A --> C[RNN - Recurrent Neural Networks]
+    A --> D[CNN - Convolutional Neural Networks]
+    A --> E[GAN - Generative Adversarial Networks]
+    A --> F[Transformer Networks]
+    A --> G[Autoencoders & Variants]
+    A --> H[Graph & Point Networks]
+    
+    %% FNN Variants
+    B --> B1[Basic Feedforward Network]
+    B --> B2[Deep MLP - Multi Layer Perceptron]
+    
+    %% RNN Variants
+    C --> C1[Simple RNN]
+    C --> C2[LSTM - Long Short-Term Memory]
+    C --> C3[GRU - Gated Recurrent Unit]
+    C --> C4[Bidirectional RNN]
+    C --> C5[Attention-based RNN]
+
+    %% CNN Variants
+    D --> D1[Basic CNN]
+    D --> D2[LeNet]
+    D --> D3[AlexNet]
+    D --> D4[VGGNet]
+    D --> D5[ResNet]
+    D --> D6[DenseNet]
+    D --> D7[Inception Network]
+    D --> D8[MobileNet]
+    
+    %% GAN Variants
+    E --> E1[Vanilla GAN]
+    E --> E2[DCGAN - Deep Convolutional GAN]
+    E --> E3[WGAN - Wasserstein GAN]
+    E --> E4[CGAN - Conditional GAN]
+    E --> E5[StyleGAN]
+
+    %% Transformer Variants
+    F --> F1[Vanilla Transformer]
+    F --> F2[BERT - Bidirectional Encoder Representations]
+    F --> F3[GPT - Generative Pretrained Transformer]
+    F --> F4[Vision Transformer - ViT]
+    F --> F5[Encoder-Decoder Transformer]
+    
+    %% Autoencoders Variants
+    G --> G1[Basic Autoencoder]
+    G --> G2[Variational Autoencoder - VAE]
+    G --> G3[Denoising Autoencoder]
+    G --> G4[Sparse Autoencoder]
+
+    %% Graph & Point Networks
+    H --> H1[Graph Neural Networks - GNN]
+    H --> H2[Graph Convolutional Networks - GCN]
+    H --> H3[Graph Attention Networks - GAT]
+    H --> H4[PointNet]
+    H --> H5[PointNet++]
+```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
