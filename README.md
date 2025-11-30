@@ -77,7 +77,7 @@ I welcome contributions from anyone who wants to help improve my repo. Whether y
 </table>
 
 
----
+--- 
 
 ## I'm a Student, ML Enthusiast, Developer, and Self Learner!!
 
