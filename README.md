@@ -4,12 +4,13 @@
 
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Passionate ML Engineering student <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>  
-
-[![Twitter: Sayak Samanta](https://img.shields.io/twitter/follow/Sayak-Samanta?style=social)](https://x.com/AlienX1751669)
-[![LinkedIn: Sayak Samanta](https://img.shields.io/badge/-Sayak%20Samanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayak-samanta-64391a316/)](https://www.linkedin.com/in/sayak-samanta-64391a316/)
-[![GitHub Sayak](https://img.shields.io/github/followers/say217?label=follow&style=social)](https://github.com/say217)
-[![](https://img.shields.io/badge/Telegram-Sayak-Samanta-blue)](https://t.me/Sayak-Samanta)
- [![](https://img.shields.io/badge/Gmail-sayaksmnt@gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+ 
+[![Twitter](https://img.shields.io/badge/Twitter-@SayakSamanta-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AlienX1751669)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayak%20Samanta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayak-samanta-64391a316/)
+[![GitHub](https://img.shields.io/badge/GitHub-say217-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/say217)
+[![Telegram](https://img.shields.io/badge/Telegram-Sayak-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sayak-Samanta)
+[![Gmail](https://img.shields.io/badge/Gmail-sayaksmnt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayaksmnt@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-SayakSamanta-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sayaksamanta)
 
 
 #  Welcome to  My GitHub Account 
