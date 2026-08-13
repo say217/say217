@@ -1,6 +1,4 @@
-
-<img width="2048" height="512" alt="Gemini_Generated_Image_e1k6ose1k6ose1k6" src="https://github.com/user-attachments/assets/adf4ceb5-c23d-4759-a343-d6d0cba4595d" />
- 
+<img width="1983" height="793" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/3680c10d-7cf6-4fea-844a-0c3e150858ce" />
 
 <p><em>Computer science student at <a href="https://iem.edu.in/">University of Engineering and Management</a></br>Passionate ML Engineering student <a href="https://medium.com/?tag=deep-learning">ThoughtWorks</a><img 
 </em></p>  
